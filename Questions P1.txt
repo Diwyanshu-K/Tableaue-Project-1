@@ -1,0 +1,25 @@
+Analysis of parking plot project
+=================================
+
+1- How is the overall situation of the total parking spaces by 
+a- Owned/Leased
+b- Property Type
+c- Within Property type how is owned and leased
+d- By building Status
+e- By bld state.
+
+2- In which bldg state parking situation is in excess - put it in order.
+
+3- bldg cities has beendecommissioned along with total parking.
+
+4- In which type of property parking space is in excess
+
+5- Where is more arking - either in leased or owned.
+
+6- State with more leased parking similarly with more woned parking 
+
+7- Which property type has more active parking
+
+8- How is distribution of parking in city by property type
+
+9- How is the distribution of parking by bldg status and bldg state
